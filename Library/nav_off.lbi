@@ -1,0 +1,14 @@
+<table border="0" cellspacing="0" cellpadding="0" id="nav">
+        <tr>
+          <td width="68"><a href="../html/home.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('home','','../images/nav/home_on.gif',1)"><img src="../images/nav/home_off.gif" width="68" height="16" name="home" alt="Home" border="0"></a></td>
+    <td width="138"><a href="../html/statement.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('statement','','../images/nav/statement_on.gif',1)"><img src="../images/nav/statement_off.gif" width="138" height="16" name="statement" alt="Statement" border="0"></a></td>
+    <td width="76"><a href="../html/portfolio.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('portfolio','','../images/nav/portfolio_on.gif',1)"><img src="../images/nav/portfolio_off.gif" width="76" height="16" name="portfolio" alt="Portfolio" border="0"></a></td>
+    <td width="76"><a href="../html/equipment.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('equipment','','../images/nav/equipment_on.gif',1)"><img src="../images/nav/equipment_off.gif" width="76" height="16" name="equipment" alt="Equipment" border="0"></a></td>
+    <td width="73"><a href="../html/type.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('type','','../images/nav/type_on.gif',1)"><img src="../images/nav/type_off.gif" width="73" height="16" name="type" alt="Type List" border="0"></a></td>
+    <td width="62"><a href="../html/wanted.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('wanted','','../images/nav/wanted_on.gif',1)"><img src="../images/nav/wanted_off.gif" width="62" height="16" name="wanted" alt="Wanted" border="0"></a></td>
+    <td width="69"><a href="../html/sale.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('sale','','../images/nav/sale_on.gif',1)"><img src="../images/nav/sale_off.gif" width="69" height="16" name="sale" alt="For Sale" border="0"></a></td>
+    <td width="68"><a href="../html/contact.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('contact','','../images/nav/contact_on.gif',1)"><img src="../images/nav/contact_off.gif" width="68" height="16" name="contact" alt="Contact" border="0"></a></td>
+    <td width="16"><a href="../html/links.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('link','','../images/nav/links_on.gif',1)"><img src="../images/nav/links_off.gif" width="49" height="16" name="link" alt="Links" border="0"></a></td>
+    <td width="63"><a href="../html/faq.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('faq','','../images/nav/faq_on.gif',1)"><img src="../images/nav/faq_off.gif" width="63" height="16" name="faq" alt="FAQ" border="0"></a></td>
+  </tr>
+</table>

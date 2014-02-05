@@ -1,0 +1,111 @@
+/* Reset Browser Defaults */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, button, table, caption, tbody, tfoot, thead, tr, th, td {	margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+ol, ul { list-style: none; }
+table { border-spacing: 0; border-collapse: collapse; }
+caption, th, td { text-align: left; font-weight: normal; }
+
+/* Style Guide */
+
+body	{
+	background-color:#000;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+h1 { font: normal 32px "Gotham", "Helvetica", "Helvetica Neue", "Arial", sans-serif; color: #000; padding: 52px 0 0; margin: 30px 0 50px 40px; }
+h2 { font: normal 32px "Gotham", "Helvetica", "Helvetica Neue", "Arial", sans-serif; color: #000; padding: 30px 0 0; margin: 0 0 25px; }
+h3 { font: italic normal 17px/27px "Georgia", "Times", "Times New Roman", serif; color: #0675b1; padding: 8px 0 20px; }
+h4 { font: normal 14px "Georgia", "Times", "Times New Roman", serif; color: #0076a7; text-transform: uppercase; padding: 4px 0 15px; }
+h5 { font: normal 18px/26px "Georgia", "Times", "Times New Roman", serif; color: #000; padding: 0 0 15px; }
+h6 { color: #333; font: bold .75em "Arial", sans-serif; padding: 25px 0 0; }
+
+hr { border: none; border-top: 1px solid #dcdcdc; clear: both; }
+
+
+p, address { font-size: 14px; color: #484a4b; padding: 0 0 20px; line-height: 21px; }
+p a:link, p a:visited { text-decoration: underline; font-weight: bold; }
+p	{ color: #fff; }
+
+textarea { resize: none; }
+
+#coastline {
+	text-align: center;
+	padding-top: 25px;
+}
+#coastline.noLinks a.hg_link1, #coastline .noLinks a.hg_link2	{ 
+	display:none;
+}
+#coastline.addLinks a.hg_link1	{ 
+	display:block; 
+	position:absolute; 
+	top:430px; 
+	left:150px; 
+	height:40px; 
+	width:200px;
+}
+#coastline.addLinks a.hg_link2	{ 
+	display:block; 
+	position:absolute; 
+	top:475px; 
+	left:150px; 
+	height:40px; 
+	width:300px;
+}
+
+.nav {
+	width: 1000px;
+	background-color:#fff;
+	height: 55px;
+}
+.nav.bottom {
+	position: relative;
+	top: 25px;
+	width: 100%;
+}
+
+.nav .prev {
+	width: 87px;
+	height: 21px;
+	background: url('../img/prev.png') left top no-repeat;
+	left: 100px;
+	top: 12px;
+	float: left;
+	margin-top: 15px;
+	display: block;
+	margin-left: 30px;
+}
+.nav .next {
+	width: 70px;
+	height: 21px;
+	background: url('../img/next.png') left top no-repeat;
+	top: 12px;
+	float: right;
+	margin-top: 15px;
+	display: block;
+	margin-right: 30px;
+}
+.nav .logo {
+	display: block;
+	float: left;
+	margin-top: 15px;
+	padding-left: 30px;
+}
+.nav .url {
+	display: block;
+	float: right;
+	margin-top: 25px;
+	padding-right: 30px;
+}
+
+
+/* CLEARFIX GOES LAST ALWAYS */
+
+.clearfix:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.clearfix { display: inline-block; }
+
+/* Hides from IE-mac \*/ 
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */

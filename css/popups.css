@@ -1,0 +1,68 @@
+body {
+	background-image: url(../images/common/bkgd_orne_sq.gif);
+	background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	background-position: left top;
+	background-color: #000000;
+}
+h1 {
+	font-size: 24px;
+	color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FFFFFF;
+	margin-bottom: 5px;
+	padding-top: 15px;
+}
+h2 {
+	color: #FFFFFF;
+	font-size: 18px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-left: 10px;
+}
+h3 {
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-left: 10px;
+	margin: 50px 0px 30px;
+	font-style: italic;
+	display: block;
+}
+h4 {
+	font-size: 11px;
+	color: #FFFF66;
+	margin: 0px;
+	font-weight: bold;
+	padding: 2px;
+}
+.thumbnail {
+	margin: 0px 20px 20px 10px;
+	float: left;
+}
+.tn_img a:link,a:visited {
+	display: block;
+	margin: 0px;
+	padding: 2px;
+}
+.tn_img a:hover {
+	background-color: #FFFF00;
+}
+#goback a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	color: #FFFF00;
+	padding: 2px 7px 3px 5px;
+	margin-left: -20px;
+	background-color: #660000;
+	border: 1px dashed #FFFF00;
+}
+#goback a:hover {
+	text-decoration: none;
+	background-color: #660000;
+	border: 1px solid #FFFF00;
+	color: #FFFFFF;
+}
